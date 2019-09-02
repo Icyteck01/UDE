@@ -1,0 +1,12 @@
+c:\users\icyteck\documents\visual studio 2015\Projects\GameDataBaseEditor\GameDataBaseEditor\obj\Debug\GameDataBaseEditor.MainForm.resources
+c:\users\icyteck\documents\visual studio 2015\Projects\GameDataBaseEditor\GameDataBaseEditor\obj\Debug\GameDataBaseEditor.Properties.Resources.resources
+c:\users\icyteck\documents\visual studio 2015\Projects\GameDataBaseEditor\GameDataBaseEditor\obj\Debug\GameDataBaseEditor.csproj.GenerateResource.Cache
+c:\users\icyteck\documents\visual studio 2015\Projects\GameDataBaseEditor\GameDataBaseEditor\bin\Debug\GameDataBaseEditor.exe
+c:\users\icyteck\documents\visual studio 2015\Projects\GameDataBaseEditor\GameDataBaseEditor\bin\Debug\GameDataBaseEditor.pdb
+c:\users\icyteck\documents\visual studio 2015\Projects\GameDataBaseEditor\GameDataBaseEditor\obj\Debug\GameDataBaseEditor.exe
+c:\users\icyteck\documents\visual studio 2015\Projects\GameDataBaseEditor\GameDataBaseEditor\obj\Debug\GameDataBaseEditor.pdb
+C:\Users\IcyTeck\documents\visual studio 2015\Projects\GameDataBaseEditor\GameDataBaseEditor\bin\Debug\GameDataBaseEditor.exe.config
+C:\Users\IcyTeck\documents\visual studio 2015\Projects\GameDataBaseEditor\GameDataBaseEditor\bin\Debug\MsgPack.dll
+C:\Users\IcyTeck\documents\visual studio 2015\Projects\GameDataBaseEditor\GameDataBaseEditor\bin\Debug\MsgPack.xml
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\GameDataBaseEditor\GameDataBaseEditor\bin\Debug\Data\elements.data
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\GameDataBaseEditor\GameDataBaseEditor\obj\Debug\GameDataBaseEditor.csprojResolveAssemblyReference.cache
